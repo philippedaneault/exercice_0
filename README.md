@@ -4,7 +4,7 @@
 
 ## Description
 
-The exercice_0 project is just test project to experiment with the Dart editor.
+The exercice_0 project is just a test project to experiment with the Dart editor.
 
 
 
